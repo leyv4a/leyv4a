@@ -1,4 +1,21 @@
-![Header](./github-header.png)
+![Header](./header-banner.png)
+
+## About Me
+<p> 📍 <strong>Son, Mexico </strong>🇲🇽🌮</p>
+<p>
+  📚 <strong>Passionate Software Engineering Student and Backend Enthusiast</strong><br>
+  Hello there! I am a dedicated software engineering student with a strong passion for backend development. Outside of my academic pursuits, I spend my free time coding and exploring the intricacies of software architecture.
+</p>
+
+<p>
+  🛠️ <strong>Founder of Geverel Software: Crafting Web and Custom App Solutions</strong><br>
+  Currently, I am the proud founder of Geverel Software, an agency specializing in web development and application development.
+</p>
+
+<p>
+  👨‍💻 <strong>Love for Coding Beyond the Classroom</strong><br>
+  Coding is not just a profession for me; it's a hobby and a continuous learning journey. I thrive on challenges and am always eager to explore new technologies and industry trends.
+</p>
 
 ## Visitor Count
 ![Visitor Count](https://profile-counter.glitch.me/leyv4a/count.svg)
