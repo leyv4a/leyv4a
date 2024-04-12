@@ -10,6 +10,7 @@
 <p>
   🛠️ <strong>Founder of Geverel Software: Crafting Web and Custom App Solutions</strong><br>
   Currently, I am the proud founder of Geverel Software, an agency specializing in web development and application development.
+  <a href="https://www.geverel.com" target="_blank">Geverel Software</a>
 </p>
 
 <p>
