@@ -26,6 +26,7 @@
 <p align="left"> 
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/ >
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/typescript"/>
     <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-hypertext-preprocessor-a-widely-used-open-source-general-purpose-scripting-language-logo-shadow-tal-revivo.png"/>
@@ -34,7 +35,7 @@
 <p >
     <img src="https://img.icons8.com/fluency/48/node-js.png" "/>
     <img src="https://img.icons8.com/color/48/spring-logo.png" "/>
-    <img src="https://img.icons8.com/color/48/bootstrap--v2.png""/>
+    <img src="https://img.icons8.com/color/48/tailwindcss""/>
     <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/>
     <img src="https://img.icons8.com/color/48/git.png"/>
     <img src="https://img.icons8.com/material-outlined/48/github.png"/>
